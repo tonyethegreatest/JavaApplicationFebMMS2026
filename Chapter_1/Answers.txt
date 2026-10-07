@@ -1,1 +1,61 @@
+CHAPTER 1 - SELF REVIEW ANSWERS
 
+1.1
+a) computer programs
+b) input unit, output unit, memory unit, ALU, control unit, secondary storage unit
+c) machine languages, assembly languages, high-level languages
+d) compilers
+e) Android
+f) Production / Release
+g) accelerometer
+
+1.2
+a) java
+b) javac
+c) .java
+d) .class
+e) bytecodes
+
+1.3
+a) information hiding
+b) classes
+c) object-oriented analysis and design (OOAD)
+d) inheritance
+e) UML
+f) attributes
+
+1.4
+a) input unit
+b) programming
+c) Assembly language
+d) output unit
+e) memory unit and secondary storage unit
+f) ALU
+g) ALU
+h) High-level
+i) machine language
+j) control unit
+
+1.5
+a) Java
+b) C
+c) TCP
+d) C++
+
+1.6
+a) edit, compile, load, verify, execute
+b) IDE
+c) JVM
+d) virtual machine
+e) class loader
+f) bytecode verifier
+
+1.7
+Java compilation has two phases:
+1. Source .java file compiled by javac into bytecodes .class (platform independent)
+2. JVM translates bytecodes into machine language and executes it.
+
+1.8
+Object: the watch itself. Attributes: size, color, brand. Behaviors: ticking, alarm. Class: blueprint of watches. Inheritance: alarm clock inherits from watch. Modeling: designing watch blueprint. Messages: pressing buttons sends messages. Encapsulation: hiding internal gears. Interface: buttons/crown. Information hiding: user doesn't need to know internal workings.
+
+1.9 - 1.12 Test-drives done via research on web.
