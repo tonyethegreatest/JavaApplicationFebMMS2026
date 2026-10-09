@@ -9,20 +9,20 @@ public class UserInput{
 		
 		System.out.println("---------input from user---------");
 		System.out.print("Enter your name:");
-		String name = Scan.nextLine();
+		String name = scan.nextLine();
 		
 		System.out.print("Enter your gender:");
 		char gender = scan.nextLine().charAt(0);
 		
 		System.out.print("Enter your adress:");
-		String adress = Scan.nextLine();
+		String adress = scan.nextLine();
 		
 		System.out.print("Enter your age:");
-		int age  = Scan.nextInt();
-		Scan.nextLine();
+		int age  = scan.nextInt();
+		scan.nextLine();
 		
 		System.out.print(name + " Are you learning java?(true/false: " );
-		boolean answer = Scan.nextBoolean(); 
+		boolean answer = scan.nextBoolean(); 
 		System.out.println("--------------------------------------------------------\n");
 		
 		System.out.printf("Welcome %s, to NIIT%n", name);
